@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CU Test]]></title>
+        <description><![CDATA[CU Test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 02:21:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kevin Myers Bio]]></title>
+            <description><![CDATA[<article><h1>Kevin Myers Bio</h1><p>I am passionate about My Faith, My Family, Marketing & Sales, and The Ohio State University Buckeyes. I
+believe that breakthrough marketing comes from engineering a better way to
+sell.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b76866c702446fb321d046f5485058710ff231.png"></article>]]></description>
+            <link>undefinedkevin-myers-bio/index.html</link>
+            <guid isPermaLink="false">a9f24dfd-b4f0-4bac-a8c6-f3ed3275c708</guid>
+            <pubDate>Wed, 27 Jan 2016 02:15:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
